@@ -1,0 +1,22 @@
+.copyright{
+    padding-left: 0px;
+}
+.company{
+    padding-left:30px;
+}
+
+.terms{
+    padding-left: 30px;
+}
+.privacy{
+    padding-left: 30px;
+}
+footer{
+    height: 10vh;
+    background-color:rgb(131, 80, 179);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
